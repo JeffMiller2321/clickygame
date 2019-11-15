@@ -2,29 +2,34 @@
     {
         "id":1, 
         "image":"https://picsum.photos/id/237/200/300",
-        "clicked":false
+        "clicked":"false",
+        "alt":"dog"
     },
     {
         "id":2, 
         "image":"https://picsum.photos/id/238/200/300",
-        "clicked":false
+        "clicked":"false",
+        "alt":"city"
     },   
      {
     
         "id":3, 
         "image":"https://picsum.photos/id/241/200/300",
-        "clicked":false
-    },   
+        "clicked":"false",
+        "alt":"hill"
+    },  
     
     {
         "id":4, 
         "image":"https://picsum.photos/id/257/200/300",
-        "clicked":false
+        "clicked":"false",
+        "alt":"river"
     },    
     
     {
         "id":5, 
         "image":"https://picsum.photos/id/221/200/300",
-        "clicked":false
+        "clicked":"false",
+        "alt":"building"
     }
 ]
